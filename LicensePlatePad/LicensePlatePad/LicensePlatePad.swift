@@ -26,7 +26,6 @@ class LicensePlatePad: UIView, KeyBoardActionDelegate{
         ///子键盘高度，冗余10
         let keyBoardHeight = height - 15
         super.init(frame: .init(x: 0, y: 0, width: screenWidth, height: height))
-        self.backgroundColor = .init(red: 212/255, green: 212/255, blue: 217/255, alpha: 1)
         
         //左侧车牌中文键盘
         let licensePlateNoKeyBoard = LicensePlateNoKeyBoard.init(frame: .init(x: 0, y: 0, width: keyBoardWidth, height: keyBoardHeight))

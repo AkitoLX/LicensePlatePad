@@ -13,7 +13,7 @@
 		B6B0E3A32BA190E6000B5B41 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6B0E3A12BA190E6000B5B41 /* Main.storyboard */; };
 		B6B0E3A52BA190E9000B5B41 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B6B0E3A42BA190E9000B5B41 /* Assets.xcassets */; };
 		B6B0E3A82BA190E9000B5B41 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6B0E3A62BA190E9000B5B41 /* LaunchScreen.storyboard */; };
-		B6B0E3B02BA1913E000B5B41 /* KeyBoard.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6B0E3AF2BA1913E000B5B41 /* KeyBoard.swift */; };
+		B6B0E3B02BA1913E000B5B41 /* LicensePlatePad.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6B0E3AF2BA1913E000B5B41 /* LicensePlatePad.swift */; };
 		B6B0E3B32BA1916A000B5B41 /* KeyBoardButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6B0E3B12BA1916A000B5B41 /* KeyBoardButton.swift */; };
 		B6B0E3B42BA1916A000B5B41 /* SystemSound.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6B0E3B22BA1916A000B5B41 /* SystemSound.swift */; };
 		B6B0E3B92BA19276000B5B41 /* LicensePlateNoKeyBoard.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6B0E3B82BA19276000B5B41 /* LicensePlateNoKeyBoard.swift */; };
@@ -30,7 +30,7 @@
 		B6B0E3A42BA190E9000B5B41 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B6B0E3A72BA190E9000B5B41 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B6B0E3A92BA190E9000B5B41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B6B0E3AF2BA1913E000B5B41 /* KeyBoard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyBoard.swift; sourceTree = "<group>"; };
+		B6B0E3AF2BA1913E000B5B41 /* LicensePlatePad.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LicensePlatePad.swift; sourceTree = "<group>"; };
 		B6B0E3B12BA1916A000B5B41 /* KeyBoardButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyBoardButton.swift; sourceTree = "<group>"; };
 		B6B0E3B22BA1916A000B5B41 /* SystemSound.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SystemSound.swift; sourceTree = "<group>"; };
 		B6B0E3B82BA19276000B5B41 /* LicensePlateNoKeyBoard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LicensePlateNoKeyBoard.swift; sourceTree = "<group>"; };
@@ -73,7 +73,7 @@
 				B6B0E3B12BA1916A000B5B41 /* KeyBoardButton.swift */,
 				B6B0E3B22BA1916A000B5B41 /* SystemSound.swift */,
 				B6B0E3BA2BA192BE000B5B41 /* KeyBoardHelperProtocol.swift */,
-				B6B0E3AF2BA1913E000B5B41 /* KeyBoard.swift */,
+				B6B0E3AF2BA1913E000B5B41 /* LicensePlatePad.swift */,
 				B6B0E39B2BA190E6000B5B41 /* AppDelegate.swift */,
 				B6B0E39D2BA190E6000B5B41 /* SceneDelegate.swift */,
 				B6B0E39F2BA190E6000B5B41 /* ViewController.swift */,
@@ -160,7 +160,7 @@
 				B6B0E3A02BA190E6000B5B41 /* ViewController.swift in Sources */,
 				B6B0E39C2BA190E6000B5B41 /* AppDelegate.swift in Sources */,
 				B6B0E3BB2BA192BE000B5B41 /* KeyBoardHelperProtocol.swift in Sources */,
-				B6B0E3B02BA1913E000B5B41 /* KeyBoard.swift in Sources */,
+				B6B0E3B02BA1913E000B5B41 /* LicensePlatePad.swift in Sources */,
 				B6B0E3B32BA1916A000B5B41 /* KeyBoardButton.swift in Sources */,
 				B6B0E3B42BA1916A000B5B41 /* SystemSound.swift in Sources */,
 				B6B0E3B92BA19276000B5B41 /* LicensePlateNoKeyBoard.swift in Sources */,
