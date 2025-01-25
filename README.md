@@ -1,2 +1,3 @@
 # LicensePlatePad
-中国车牌号码输入iPad App内置键盘
+车牌号码输入App内置键盘（定制）
+# 只适合iPad 横屏
